@@ -1,6 +1,6 @@
-baseurl = "https://example.org/"
+baseurl = "https://epic-yonath-3c7569.netlify.com/"
 languageCode = "en-us"
-title = "Material Docs"
+title = "Cookbook"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
