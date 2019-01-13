@@ -10,7 +10,7 @@ weight: 1
 - Value open over closed minds
 
 ## Why?
-After working in software for over a decade I finally realised why DevOps is so useful. This site is an attempt to put into words my understanding of how we should build software. This gathers together content from many sources listed in the reference section and take inspiration from (https://trunkbaseddevelopment.com/)[https://trunkbaseddevelopment.com/] for the format.
+After working in software for over a decade I finally realised why DevOps is so useful. This site is an attempt to put into words my understanding of how we should build software. This gathers together content from many sources listed in the reference section and take inspiration from [https://trunkbaseddevelopment.com/](https://trunkbaseddevelopment.com/) for the format.
 
 ## Cavets
 As much as possible I have tried to keep personal basis out of the book and relied on data to inform decision. I do not see software development as a kind of artistic expression but rather as an engineering challenge. This leads to my view that guide much of this book.
