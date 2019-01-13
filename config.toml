@@ -9,13 +9,13 @@ googleAnalytics = ""
 
 [params]
 	# General information
-	author = "Digitalcraftsman"
+	author = "Eamonn Moloney"
 	description = "A material design theme for documentations."
-	copyright = "Released under the MIT license"
+	copyright = " (Eamonn Moloney)[http://eamonnmoloney.com], with contributions from friends. Site built with Hugo with Material theme, via Netlify."
 
 	# Repository
 	provider = "GitHub"
-	repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
+	repo_url = "https://github.com/eamonnmoloney/cookbook"
 
 	version = "1.0.0"
 	logo = "images/logo.png"
@@ -40,8 +40,8 @@ googleAnalytics = ""
 
 
 [social]
-	twitter = ""
-	github  = "digitalcraftsman"
+	twitter = "eamonnmoloney"
+	github  = "eamonnmoloney"
 	email   = "hello@email.com"
 
 
@@ -49,6 +49,16 @@ googleAnalytics = ""
 	name   = "Material"
 	url    = "/"
 	weight = 0
+
+[[menu.main]]
+	name   = "Introduction"
+	url    = "introduction/"
+	weight = 1
+
+[[menu.main]]
+	name   = "Actors"
+	url    = "actors/"
+	weight = 2
 
 [[menu.main]]
 	name   = "Getting started"
